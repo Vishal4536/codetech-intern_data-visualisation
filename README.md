@@ -1,1 +1,3 @@
-# codetech-intern_data-visualisation
+README - Weather Forecast Data Visualization
+
+This project demonstrates API integration and data visualization using Python. It fetches 5-day weather forecast data from the OpenWeatherMap API for a specified city (e.g., Chennai) and visualizes the temperature trend using the Seaborn and Matplotlib libraries. The script processes the JSON response to extract date-time and temperature details, which are then plotted on a line graph to help users easily interpret the changes in temperature over time. This project showcases how to connect with public APIs, handle JSON data, and create meaningful visual insights from raw data.
